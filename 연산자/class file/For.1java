@@ -1,0 +1,8 @@
+public class For1{
+    public static void main(String args[]){
+        //별을 가로로 7개 찍기
+        for(i=1; i<=7; i++){
+        System.out.print("* ");
+       }
+     }
+}      
